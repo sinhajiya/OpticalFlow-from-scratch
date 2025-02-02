@@ -128,6 +128,6 @@ class OpticalFlow:
 
 if __name__ == "__main__":
     video_path = "video.avi"  
-    output_path = "result.avi"
+    output_path = "output.avi"
     optical_flow = OpticalFlow(video_path, output_path)
     optical_flow.process_video()
