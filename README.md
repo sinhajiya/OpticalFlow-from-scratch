@@ -12,3 +12,5 @@ The result is stored in the ***output.avi* shows a video with green overlay on t
 
 ## Note  
 - This method is computationally intensive and may be **slow** for large videos files such as the one given here. 
+
+![output (1)](https://github.com/user-attachments/assets/02d005c9-fa35-4474-9bb4-0649a069d8ac)
